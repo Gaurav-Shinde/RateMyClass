@@ -5,6 +5,9 @@
 ## Description
 Rate My Class is a dynamic website for Temple students to view and post reviews for classes in different departments.
 
+## Note
+The professors selection, unlike classes, does not have their names; instead, a professor must be added by the user to leave reviews.
+
 ## Pre-requisites
 Before we begin, you'll need to setup a few things. You'll need
 - MySQL Database
